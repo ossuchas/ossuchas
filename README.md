@@ -4,6 +4,11 @@
 ![](https://media.giphy.com/media/quEsMOrr3hmQ8/giphy.gif)
 -->
 
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="300"/>
+  <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="500" height="300"/>
+</div>
+
 **ossuchas/ossuchas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
